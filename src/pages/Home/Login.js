@@ -24,7 +24,7 @@ const Login = () => {
   return (
     <div className="sign-up-page">
      <div className="sign-up-main">
-     <h1>{user ? "Logout from dankmedia" :"Login to make your account in dankmedia"}</h1>
+     <h1>{user ? "Logout from ShareMSG" :"Login to make your account in ShareMSG"}</h1>
       <p>{user? "Signout from below":"Sign In with your Google Account"} </p>
       <button onClick={signInandOut}>{user?"Signout":"SignIn"}</button>
      </div>
