@@ -21,7 +21,7 @@ const Home = () => {
         }))
       );
     } catch (error) {
-      alert(error);
+      // alert(error);
     }
   };
   useEffect(() => {
