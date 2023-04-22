@@ -260,10 +260,9 @@
 }
 
 .login-auth {
-  padding: 0px;
   width: 40%;
   opacity: 0.8;
-  position: absolute;
+  /* position: absolute; */
   right: 10%;
   top: 25%;
   /* position: absolute; */
@@ -271,7 +270,9 @@
 
 .login-auth div {
   padding-top: 3em;
-  position: relative;
+  position: absolute;
+  right: 10%;
+  top: 25%;
 }
 
 /* Input form on create post */
