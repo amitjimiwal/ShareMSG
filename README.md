@@ -38,7 +38,7 @@ npm start
 
 Contributions to this project are welcome. If you find any bugs or have suggestions for improvements, feel free to open an issue or create a pull request.
 
-1. Fork the repository from the GitHub page: [https://github.com/amitjimiwal/tsprojecttodo](https://github.com/amitjimiwal/tsprojecttodo)
+1. Fork the repository from the GitHub page: [https://github.com/amitjimiwal/SHAREMSG](https://github.com/amitjimiwal/SHAREMSG)
 
 2. Clone your forked repository to your local machine.
 
